@@ -11,4 +11,4 @@ MIMIC supports a diverse range of analytic studies spanning epidemiology, clinic
 - it encompasses a diverse and very large population of ICU patients
 - it contains highly granular' data including lab results, vital signs, medications, and more
 
-Due to privacy concerns, our data set was not posted in our GitHub. For reference though, an example medical report has been provided. Should more information be needed, please contact David Scanlan at davidscanlan@berkeley.edu
+Due to privacy concerns, our data set was not posted in our GitHub. For reference though, an example medical report has been provided, accessible in the "Data_preprocessing" folder, file named "Example Medical Report.rtf". Should more information be needed, please contact David Scanlan at davidscanlan@berkeley.edu
