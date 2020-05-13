@@ -1,7 +1,7 @@
 # medical_smart_compose
 
 
-**UI Install**
+**UI INSTALL**
 * Clone the repository
 * Download dependencies (download via pip install or conda install -c anaconda):
     * Flask: https://anaconda.org/anaconda/flask
@@ -49,7 +49,7 @@ MIMIC supports a diverse range of analytic studies spanning epidemiology, clinic
 
 Due to privacy concerns, our data set was not posted in our GitHub. For reference though, an example medical report has been provided, accessible in the "Data_preprocessing" folder, file named "Example Medical Report.rtf". Should more information be needed, please contact David Scanlan at davidscanlan@berkeley.edu
 
-**PRESENTATION 
+**PRESENTATION**
 
 Our final presentation is accessible  using this Google Drive link only with a @berkeley.edu email address :
 
