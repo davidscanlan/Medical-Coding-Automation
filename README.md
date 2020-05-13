@@ -1,5 +1,22 @@
 # medical_smart_compose
 
+
+**UI Install**
+* Clone the repository
+* Download dependencies (download via pip install or conda install -c anaconda):
+    * Flask: https://anaconda.org/anaconda/flask
+    * React: https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm
+    * Material-UI: https://material-ui.com/getting-started/installation/
+* In a terminal navigate into the server folder of the repo and set the flask environment to the main.py
+    * >> cd server
+    * >> export FLASK_APP=main.py
+* You should see that the server is up and running, make sure to download the necessary models for each procedure or the default GPT2 models will be used
+* Return to the main repo folder and navigate down into the gpt2-frontend folder, then initiate the react app
+    * >> cd ..
+    * >> cd gpt2-frontend
+    * npm start
+* This should trigger the react app in your default browser and you can now use the models to make text predictions!
+
 **DATA FAQ**
 
 The team's data came from the MIT MIMIC-III database, a large, freely-available database comprising de-identified health-related data associated with over forty thousand patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012.
